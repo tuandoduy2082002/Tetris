@@ -15,7 +15,9 @@ SDL2_Mixer
 
 Tất cả Assets được lấy từ tetris.com.
 Ý tưởng về effect trong game cũng được lấy từ tetris.com.
+
 How to play
+
 Rule :
 
 Các khối gach được sinh ra ngẫu nhiên và rơi xuống 1 hàng mỗi 1s (thời gian tuỳ theo độ khó của game).
