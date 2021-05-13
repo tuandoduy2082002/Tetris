@@ -6,8 +6,11 @@ Project game môn Lập Trình Nâng Cao
 Thư viện SDL 2 sử dụng bao gồm:
 
 SDL2
+
 SDL2_Image
+
 SDL2_Ttf
+
 SDL2_Mixer
 
 Tất cả Assets được lấy từ tetris.com.
