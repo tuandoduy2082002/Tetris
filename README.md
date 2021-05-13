@@ -19,6 +19,7 @@ Các khối gach được sinh ra ngẫu nhiên và rơi xuống 1 hàng mỗi 1
 Luật chơi khá đơn giản và quen thuộc lấp đầy các hàng để clear hàng đó và kiếm điểm.
 Với mỗi hàng clear sẽ được 100 điểm.
 Game kết thúc khi có 1 viên gạch chạm nóc.
+
 Điều khiển :
 
 Dùng các phím mũi tên sang trái sang phải để điều khiển khối gạch sang trái sang phải
